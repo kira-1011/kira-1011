@@ -1,8 +1,8 @@
 ## Hello 👋, I'm Kirubel
 
 # 💫 About Me:
-👨‍💻 Full-Stack Engineer
-🔭 Working on: AI-powered automation workflows
+- 👨‍💻 Full-Stack Engineer
+- 🔭 Working on: AI-powered automation workflows
 
 
 ## 🌐 Socials:
