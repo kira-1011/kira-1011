@@ -1,4 +1,4 @@
-## Hello 👋, I'm Kirubel
+# Hello 👋, I'm Kirubel
 
 # 💫 About Me:
 - 👨‍💻 Full-Stack Engineer
